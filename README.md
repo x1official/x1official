@@ -1,6 +1,6 @@
 ### Hi im x1! 👋
 
-- 🔭 I’m currently working on [![Redux](![image](https://user-images.githubusercontent.com/75934189/141420865-d11d5ad1-8780-4269-bf0c-9b289f040247.png))](https://codestackr.com)
+- 🔭 I’m currently working on [![Redux](![image](https://user-images.githubusercontent.com/75934189/141420865-d11d5ad1-8780-4269-bf0c-9b289f040247.png))](https://www.reduxwinning.xyz)
 - 🌱 I’m currently learning cpp, html and wpf
 - 🤔 I’m looking for help with how to get a girl to stay with you...
 - 📫 How to reach me: Discord: x1#0002
