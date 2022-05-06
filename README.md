@@ -8,4 +8,4 @@
 
 
 ![x1's GitHub stats](https://github-readme-stats.vercel.app/api?username=x1official&show_icons=true&theme=dracula)
-[![Discord Presence](https://lanyard.cnrad.dev/api/829532006735806476)](https://discord.com/users/747563433234268232)
+[![Discord Presence](https://lanyard.cnrad.dev/api/747563433234268232)](https://discord.com/users/747563433234268232)
