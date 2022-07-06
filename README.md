@@ -1,6 +1,6 @@
 ### Hi im x1! 👋
 
-- 🔭 I’m currently working on myself...
+- 🔭 I’m currently working on Batman O.
 - 🌱 I’m currently learning c++, html and wpf
 - 🤔 I’m looking for help life...
 - 📫 How to reach me: Discord: x1#3243
