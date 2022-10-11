@@ -7,4 +7,4 @@
 - 😄 Pronouns: he/him
 
 
-![x1's GitHub stats](https://github-readme-stats.vercel.app/api?username=x1official&show_icons=true&theme=dracula)
+![x1's GitHub stats](https://github-readme-stats.vercel.app/api?username=x1official&show_icons=true&theme=Gradient)
